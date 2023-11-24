@@ -1,7 +1,11 @@
-# Sobre
+# About
 
-Esse repositório contém o projeto final da disciplina EEL410250 - Aprendizado de Máquina do Programa de Pós-Graduação da Engenharia Elétrica da UFSC, desenvolvido pelos alunos Victor Bauler e Lucas de Toledo.
+This repo contains the final project from the graduate course EEL410250 - Machine Learning, developed by undergrad students Lucas Barreto and Victor Bauler.
 
-# Proposta de Projeto
+## Proprosed
 
-O projeto proposto pela equipe consite na predição se uma transação bancária é ou não fraudulenta, por meio de dados disponíveis no [kaggle](https://www.kaggle.com/competitions/ieee-fraud-detection/overview)
+The proprosed project turns around fraud detection in bank transactions, using a Kaggle dataset that can be found in [kaggle](https://www.kaggle.com/competitions/ieee-fraud-detection/overview).
+
+## Results
+
+Our final results reached top 7 at the time, achieving 94% of AuROC (score metric picked by the competition).
